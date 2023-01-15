@@ -16,28 +16,30 @@
   <body>
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark  justify-content-center">
       <ul class="navbar-nav">
-        <li class="nav-item dropdown dropdown-hover"> <a class="nav-link dropdown-toggle"
+        
+          <li class="nav-item dropdown dropdown-hover"> <a class="nav-link dropdown-toggle"
 
-            href="#" id="navbarDropdown-1" role="button" data-bs-toggle="dropdown"
+              href="#" id="navbarDropdown-1" role="button" data-bs-toggle="dropdown"
 
-            aria-expanded="false"> Landings </a>
-          <ul class="dropdown-menu dropdown-menu-md" aria-labelledby="navbarDropdown-1">
-            <li><a class="dropdown-item " href="./startup.html">Startup</a></li>
-            <li><a class="dropdown-item " href="./saas.html">Saas</a> </li>
-            <li><a class="dropdown-item " href="./coworking.html">Coworking</a></li>
-            <li><a class="dropdown-item " href="./job-board.html">Job Board</a></li>
-            <li><a class="dropdown-item " href="./agency.html">Agency</a> </li>
-            <li><a class="dropdown-item " href="./blog.html">Blog</a> </li>
-            <li><a class="dropdown-item " href="./product.html">Product</a></li>
-            <li><a class="dropdown-item " href="./app.html">App</a> </li>
-            <li><a class="dropdown-item " href="./shop.html">Shop</a> </li>
-            <li><a class="dropdown-item " href="./event.html">Event</a></li>
-            <li><a class="dropdown-item " href="./course.html">Course</a> </li>
-            <li><a class="dropdown-item " href="./service.html">Service</a></li>
-            <li><a class="dropdown-item " href="./software.html">Software</a></li>
-            <li><a class="dropdown-item " href="./documentation.html">Documentation</a></li>
-          </ul>
-        </li>
+              aria-expanded="false"> Landings </a>
+            <ul class="dropdown-menu dropdown-menu-md" aria-labelledby="navbarDropdown-1">
+              <li><a class="dropdown-item " href="./startup.html">Startup</a></li>
+              <li><a class="dropdown-item " href="./saas.html">Saas</a> </li>
+              <li><a class="dropdown-item " href="./coworking.html">Coworking</a></li>
+              <li><a class="dropdown-item " href="./job-board.html">Job Board</a></li>
+              <li><a class="dropdown-item " href="./agency.html">Agency</a> </li>
+              <li><a class="dropdown-item " href="./blog.html">Blog</a> </li>
+              <li><a class="dropdown-item " href="./product.html">Product</a></li>
+              <li><a class="dropdown-item " href="./app.html">App</a> </li>
+              <li><a class="dropdown-item " href="./shop.html">Shop</a> </li>
+              <li><a class="dropdown-item " href="./event.html">Event</a></li>
+              <li><a class="dropdown-item " href="./course.html">Course</a> </li>
+              <li><a class="dropdown-item " href="./service.html">Service</a></li>
+              <li><a class="dropdown-item " href="./software.html">Software</a></li>
+              <li><a class="dropdown-item " href="./documentation.html">Documentation</a></li>
+            </ul>
+          </li>
+        
         <li class="nav-item dropdown dropdown-hover"> <a class="nav-link dropdown-toggle"
 
             href="#" id="navbarDropdown-1" role="button" data-bs-toggle="dropdown"
@@ -141,7 +143,7 @@
         </ol>
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-          <div class="item active"> <img src="1.jpg" alt="Los Angeles" style="width:100%; height:600px;">
+          <div class="item active"> <img src="3.jpg" alt="Los Angeles" style="width:100%; height:600px;">
           </div>
           <div class="item"> <img src="2.jpg" alt="Chicago" style="width:100%; height:600px;">
           </div>
@@ -157,8 +159,8 @@
           <span class="sr-only">Next</span> </a> </div>
     </div>
     <center>
-      <h2 class="display-2 fw-light" style=" margin-top:100px"><span class="fw-bold">50+
-          prebuilt pages</span> &amp; unlimited variations</h2>
+      <h2 class="display-2 fw-light" style=" margin-top:100px"><span class="fw-bold">50+ prebuilt pages</span>
+        &amp; unlimited variations</h2>
       <button class="btn btn-filter rounded-pill current" data-filter="*" data-target="#grid1">all</button>
       <button class="btn btn-filter rounded-pill" data-filter=".landing" data-target="#grid1">landings</button>
       <button class="btn btn-filter rounded-pill" data-filter=".page" data-target="#grid1">pages</button>
@@ -224,20 +226,18 @@
             </a> </article>
         </div>
       </div>
-    </div>
+         </div>
     <center>
-      <div class="container" style=" margin-top:100px; margin-bottom:50px;"> <iframe
-
-          src="https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d1988.3041095884043%212d-74.06346502465139%213d4.663736899624857%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x8e3f9a59ab43b17d%3A0xc037b23db97b7a13%212sIglesia%20Internacional%20Rios%20De%20Agua%20De%20Vida%215e0%213m2%211ses%212sco%214v1673724574007%215m2%211ses%212sco"
-
-          style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
-
-          height="480" width="1100"></iframe> </div>
+      <div class="container" style=" margin-top:100px; margin-bottom:50px;">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1988.3041095884043!2d-74.06346502465139!3d4.663736899624857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9a59ab43b17d%3A0xc037b23db97b7a13!2sIglesia%20Internacional%20Rios%20De%20Agua%20De%20Vida!5e0!3m2!1ses!2sco!4v1673724574007!5m2!1ses!2sco" width="1100" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div> 
     </center>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
 
 integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
 
 crossorigin="anonymous"></script>
+      
+   
   </body>
 </html>
